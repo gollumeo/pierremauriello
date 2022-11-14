@@ -16,21 +16,21 @@
 
 ### Hobbies <br />
 
-* Jeux vidéos:
+* **Jeux vidéos**:
   * World of Warcraft ;
   * League of Legends ;
   * The Legend of Zelda ;
   * Les streams sur Twitch (principalement WoW & LoL)!
-* Séries:
+* **Séries**:
   * Lucifer ;
   * Stranger Things ;
   * Suits ;
   * Esprits Criminels ;
   * Manifest ;
   * ...
-* Films ;
-* Programmation ;
-* Lecture:
+* **Films** ;
+* **Programmation** ;
+* **Lecture**:
   * Fantasy ;
   * Fantastique ;
   * Thrillers ;
@@ -51,5 +51,6 @@ Je suis Français et j'ai appris il y a seulement trois ans comment fonctionne l
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gollumeo&theme=tokyonight_duo&locale=fr)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gollumeo&show_icons=true&theme=tokyonight)
 
 <p style="text-align:center;"><a href="https://github.com/NourEve/challenge-markdown/blob/main/MarkDown.md"><< Précédent</a>  ||  Pierre  ||  <a href="https://github.com/Quentin-Bource/Quentin-Bource">Suivant >></a></p>
