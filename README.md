@@ -48,4 +48,4 @@ J'ai appris tardivement ans que les départements français avaient leur numéro
 
 Je suis Français et j'ai appris il y a seulement trois ans comment fonctionne la classification des départements de mon pays. 
 
-<p style="text-align:center;"><a href="https://github.com/NourEve/challenge-markdown/blob/main/MarkDown.md"><< Précédent</a> | Pierre | <a href="https://github.com/Quentin-Bource/Quentin-Bource">Suivant >></a>
+<p style="text-align:center;"><a href="https://github.com/NourEve/challenge-markdown/blob/main/MarkDown.md"><< Précédent</a>  ||  Pierre  ||  <a href="https://github.com/Quentin-Bource/Quentin-Bource">Suivant >></a></p>
