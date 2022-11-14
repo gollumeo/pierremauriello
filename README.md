@@ -46,6 +46,11 @@ J'ai appris tardivement ans que les départements français avaient leur numéro
 
 #### TL;DR! 
 
-Je suis Français et j'ai appris il y a seulement trois ans comment fonctionne la classification des départements de mon pays. 
+Je suis Français et j'ai appris il y a seulement trois ans comment fonctionne la classification des départements de mon pays.
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gollumeo&theme=tokyonight_duo&locale=fr)](https://git.io/streak-stats)
+![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gollumeo&show_icons=true&theme=tokyonight_duo)
 
 <p style="text-align:center;"><a href="https://github.com/NourEve/challenge-markdown/blob/main/MarkDown.md"><< Précédent</a>  ||  Pierre  ||  <a href="https://github.com/Quentin-Bource/Quentin-Bource">Suivant >></a></p>
