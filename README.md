@@ -51,6 +51,6 @@ Je suis Français et j'ai appris il y a seulement trois ans comment fonctionne l
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gollumeo&theme=tokyonight_duo&locale=fr)](https://git.io/streak-stats)
-![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gollumeo&show_icons=true&theme=tokyonight_duo)
+![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gollumeo&show_icons=true&theme=tokyonight)
 
 <p style="text-align:center;"><a href="https://github.com/NourEve/challenge-markdown/blob/main/MarkDown.md"><< Précédent</a>  ||  Pierre  ||  <a href="https://github.com/Quentin-Bource/Quentin-Bource">Suivant >></a></p>
