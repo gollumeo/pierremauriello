@@ -6,10 +6,10 @@
 
 ## Petit Français perdu en Belgique
 
-| Informations              |
-| ----------- | ----------- |
-| Anniversaire | Title       |
-| Genre       | Text        | 
-| Couleur préférée | Title       |
+| Informations               |
+|-------------|-----------|
+| Anniversaire     | Title       |
+| Genre            | Text        | 
+| Couleur préférée | Title   |
 | Plat favori | Title       |
-| Annana sur la pizza?| Oui [] Non [x] |
+| Ananas sur la pizza? | Oui [] Non [x] |
