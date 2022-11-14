@@ -20,7 +20,7 @@
   * World of Warcraft ;
   * League of Legends ;
   * The Legend of Zelda ;
-  * ...
+  * Les streams sur Twitch (principalement WoW & LoL)!
 * Séries:
   * Lucifer ;
   * Stranger Things ;
