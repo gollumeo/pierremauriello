@@ -6,10 +6,44 @@
 
 ## Petit Français perdu en Belgique
 
-| Informations               |
-|-------------|-----------|
-| Anniversaire     | Title       |
-| Genre            | Text        | 
-| Couleur préférée | Title   |
-| Plat favori | Title       |
-| Ananas sur la pizza? | Oui [] Non [x] |
+||               |
+|---- |-----------|
+| Anniversaire     | 11/01       |
+| Genre            | ♂        | 
+| Couleur préférée | Noir   |
+| Plat favori | Spätzle  (pâtes alsaciennes)     |
+| Ananas sur la pizza? | Oui ☐ Non ☒ |
+
+## Hobbies <br />
+
+* Jeux vidéos:
+  * World of Warcraft ;
+  * League of Legends ;
+  * The Legend of Zelda ;
+  * ...
+* Séries:
+  * Lucifer ;
+  * Stranger Things ;
+  * Suits ;
+  * Esprits Criminels ;
+  * Manifest ;
+  * ...
+* Films ;
+* Programmation ;
+* Lecture:
+  * Fantasy ;
+  * Fantastique ;
+  * Thrillers ;
+  * ...
+
+## Vous pouvez toujours compter sur moi pour...
+
+Essayer de (mieux) comprendre quelque chose, vous épauler dans les mauvais moments (professionnels ou privés - je suis doté d'une bonne écoute :stuck_out_tongue_winking_eye:) ou tout simplement pour rire et tester vos blagues (douteuses :joy:)! <br />
+
+## Une drôle d'anecdote
+
+J'ai appris tardivement ans que les départements français avaient leur numéro en fonction de l'ordre alphabétique et qu'il n'y avait pas forcément de rapport entre leur numéro et leur position géographique... Il m'a fallu faire des études dans le transport pour le savoir. 
+
+### TL;DR! 
+
+Je suis Français et j'ai appris il y a seulement trois ans comment fonctionne la classification des départements de mon pays. 
