@@ -8,8 +8,8 @@
 
 | Informations              |
 | ----------- | ----------- |
-| Anniversaire| Title       |
+| Anniversaire | Title       |
 | Genre       | Text        | 
-| Couleur préférée| Title       |
+| Couleur préférée | Title       |
 | Plat favori | Title       |
-| Annana sur la pizza?| Oui [] Non [x]|
+| Annana sur la pizza?| Oui [] Non [x] |
